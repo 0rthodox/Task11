@@ -5,6 +5,8 @@ int main() {
     std::string name;
     int price, temperature;
     bool hasCashback;
+
+
     const int RIGHT_WIDTH = 8, LEFT_WIDTH = 17;
     std::cout << "Product's name: ";
     std::cin >> name;
